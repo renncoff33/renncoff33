@@ -1,15 +1,19 @@
+
 <div align="center">
-<img src="https://ibb.co/Y7NK0N0" align="center" style="width: 100%" />
+<img src="https://i.top4top.io/p_2270908qh0.jpg" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm ren7, I'm only interested in coding programmer  👨‍💻 </div>  
+### <div align="center">welcome to my github💻</div>  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- 📌I'm ren7(Mr.d3xster), only interested in coding programmer💻  
   
 
-- ⚡ just a hobby  
+- 🌱 just normal & just not much  
+  
+
+- don't forget to follow🇮🇩  
   
 
 <br/>  
