@@ -1,4 +1,4 @@
-<h1 align="center">Hi ðŸ‘‹, welcome to my profil Mr.d3xster(ren7)</h1>
+<h1 align="center">Hi , welcome to my profil Mr.d3xster(ren7)</h1>
 <h3 align="center">Sekedar hobiðŸ’»</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calonsukses1&label=Profile%20views&color=0e75b6&style=flat" alt="calonsukses1" /> </p>
