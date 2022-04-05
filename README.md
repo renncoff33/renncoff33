@@ -23,9 +23,12 @@
 </div>
 
 </td><td valign="top" width="33%">
-https://img.shields.io/badge/Text%20Editor-Vim-blue?&logo=vim&logoColor=blue
-
-
+ 
+​###​ ​Tools: 
+<p> 
+ ​    <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=linux" /> 
+ ​    <img src="https://img.shields.io/badge/Text%20Editor-Vim-blue?&logo=vim&logoColor=blue" /> 
+</p>
 
   
 
