@@ -7,7 +7,7 @@
 ### <div align="center">welcome to my github💻</div>  
   
 
-- 📌I'm ren7(Mr.d3xster), only interested in coding programmer💻  
+- 📌I'm ren Sydicate, only interested in coding programmer💻  
   
 
 - 🌱 just normal & just not much  
@@ -24,14 +24,8 @@
 
 </td><td valign="top" width="33%">
  
-​###​ ​Tools: 
-<p> 
- ​    <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=linux" /> 
- ​    <img src="https://img.shields.io/badge/Text%20Editor-Vim-blue?&logo=vim&logoColor=blue" /> 
-</p>
-
+​
   
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/CalonSukses1/CalonSukses1" target="_blank">
