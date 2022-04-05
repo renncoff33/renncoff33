@@ -23,8 +23,7 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
+https://img.shields.io/badge/Text%20Editor-Vim-blue?&logo=vim&logoColor=blue
 
 
 
