@@ -4,18 +4,10 @@
 </div>  
   
 
-### <div align="center">welcome to my github💻</div>  
-  
+### <div align="center">welcome to my github</div>  
 
-- 📌I'm ren Sydicate, only interested in coding programmer💻  
-  
-
-- 🌱 just normal & just not much  
-  
-
-- don't forget to follow🇮🇩  
-  
-
+Widih ada yang kepo nih sama akun github gue.
+Jan lupa follow sama kasih bintang ya ngab :v.
 <br/>  
 
 
