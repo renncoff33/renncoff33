@@ -1,41 +1,20 @@
-
-<div align="center">
-<img src="https://l.top4top.io/p_2281jk1fi0.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">welcome to my github</div>  
-
-Widih ada yang kepo nih sama akun github gue.
-Jan lupa follow sama kasih bintang ya ngab :v.
-<br/>  
-
-
-
-</div>
-
-</td><td valign="top" width="33%">
- 
-​
-  
-## Connect with me  
-<div align="center">
-<a href="https://github.com/CalonSukses1/CalonSukses1" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100071279492091" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/ren7_?utm_medium=copy_link" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+# Welcome Sob, [Renn](https://www.facebook.com/profile.php?id=100071279492091) here <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">
+<!-- <<p align="center">
+  <a href="https://youtube.com/channel/UCLRXFyMN0L8yH9F-xxOd7Og" target="blank"><img src="http://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=50&multiline=false&width=2000&height=80&lines=Hai+I'm+Renn;Gua+Cuman+Orang+Biasa+Yg+Gak+Bisa+Apa²;Support+Terus+Youtube+Gua+Ya+Ngab+!+(+Ren+Sydicate+);Wihh+ada+yg+kepo+nih+sama+akun+github+Gua.+Jangan+lupa+follow+sama+kasih+Star(bintang)+ya+sob+;)." alt="Renn">
+</p> -->
+Wihh ada yg kepo nih sama akun github Gua. Jangan lupa follow sama kasih star(bintang) ya Sob ;).
+<p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=RenSydicate&show_icons=true&locale=en&layout=compact&theme=radical" alt="RenSydicate" /></p>
+<!-- Jangan Di Rikod Donk Om Aku Juga Masih Belajar :v -->
+<!-- Aing cuman belajar Otodidak Mamang-->
+<h2> Support Me On</h2>
+<!-- Wih Ada Bang Jago Recode & Copas Code Aing Njink -->
+<!-- Aing Juga Bikin Sendiri Njink Lu Enak Maen Copy2 Aja Kan Goblok -->
+<p>
+<a href="https://www.facebook.com/profile.php?id=100071279492091" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Ren" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UCfrqo1g3RFE5Eb6_MrP_5Lw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Ren" height="30" width="40" /></a>
+<a href="https://github.com/RenSydicate" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Sanz" height="30" widht="40" /></a>
+</p>
+<!-- Jangan Di Rikod Donk Om Aku Juga Masih Belajar :v -->
+<!-- Mau copy code nya ya ^_^ -->
+<!-- Aing juga masih belajar Anyink -->
+<!-- Created by Sanz -->
