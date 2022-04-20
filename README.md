@@ -17,4 +17,4 @@ Wihh ada yg kepo nih sama akun github Gua. Jangan lupa follow sama kasih star(bi
 <!-- Jangan Di Rikod Donk Om Aku Juga Masih Belajar :v -->
 <!-- Mau copy code nya ya ^_^ -->
 <!-- Aing juga masih belajar Anyink -->
-<!-- Created by Sanz -->
+<!-- Created by Ren Sydicate -->
