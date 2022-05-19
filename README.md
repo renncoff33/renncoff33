@@ -1,6 +1,6 @@
-# Welcome Sob, [Renn](https://www.facebook.com/profile.php?id=100071279492091) here <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">
+# Welcome Sob, [Renn](https://www.facebook.com/profile.php?id=100080284884531) here <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">
 <!-- <<p align="center">
-  <a href="https://youtube.com/channel/UCfrqo1g3RFE5Eb6_MrP_5Lw" target="blank"><img src="http://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=50&multiline=false&width=2000&height=80&lines=Hai+I'm+Renn;Gua+Cuman+Orang+Biasa+Yg+Gak+Bisa+Apa²;Support+Terus+Youtube+Gua+Ya+Ngab+!+(+Ren+Sydicate+);Wihh+ada+yg+kepo+nih+sama+akun+github+Gua.+Jangan+lupa+follow+sama+kasih+Star(bintang)+ya+sob+;)." alt="Renn">
+  <a href="https://youtube.com/channel/UCfrqo1g3RFE5Eb6_MrP_5Lw" target="blank"><img src="http://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=50&multilinehttps://www.facebook.com/profile.php?id=100080284884531=false&width=2000&height=80&lines=Hai+I'm+Renn;Gua+Cuman+Orang+Biasa+Yg+Gak+Bisa+Apa²;Support+Terus+Youtube+Gua+Ya+Ngab+!+(+Ren+Sydicate+);Wihh+ada+yg+kepo+nih+sama+akun+github+Gua.+Jangan+lupa+follow+sama+kasih+Star(bintang)+ya+sob+;)." alt="Renn">
 </p> -->
 Wihh ada yg kepo nih sama akun github Gua. Jangan lupa follow sama kasih star(bintang) ya Sob ;).
 <p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=renncoff33&show_icons=true&locale=en&layout=compact&theme=radical" alt="renncoff33" /></p>
@@ -17,4 +17,4 @@ Wihh ada yg kepo nih sama akun github Gua. Jangan lupa follow sama kasih star(bi
 <!-- Jangan Di Rikod Donk Om Aku Juga Masih Belajar :v -->
 <!-- Mau copy code nya ya ^_^ -->
 <!-- Aing juga masih belajar Anyink -->
-<!-- Created by Ren Sydicate -->
+<!-- Created by renncoff33 -->
