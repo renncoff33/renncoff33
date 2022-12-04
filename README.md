@@ -10,7 +10,7 @@ Wihh ada yg kepo nih sama akun github Gua. Jangan lupa follow sama kasih star(bi
 <!-- Wih Ada Bang Jago Recode & Copas Code Aing Njink -->
 <!-- Aing Juga Bikin Sendiri Njink Lu Enak Maen Copy2 Aja Kan Goblok -->
 <p>
-<a href="https://www.facebook.com/profile.php?id=100071279492091" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Ren" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100080284884531&mibextid=ZbWKwL" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Ren" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UCfrqo1g3RFE5Eb6_MrP_5Lw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Ren" height="30" width="40" /></a>
 <a href="https://github.com/RenSydicate" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Sanz" height="30" widht="40" /></a>
 </p>
